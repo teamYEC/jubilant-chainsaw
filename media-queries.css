@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+.alert-info {
+    background-color: lightblue;
+    list-style: none;
+    width: 100%;
+    padding: 1em;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.nav-links {
+    background-color: lightgray;
+    list-style: none;
+    width: px;
+    height: 339px;
+    padding: 1em;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+img {
+    display: flex;
+    width: 100%;
+}
+
+.main {
+}
+.sub-section {
+    display: flex;
+    justify-content: left;
+
+}
+
